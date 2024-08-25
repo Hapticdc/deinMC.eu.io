@@ -1,0 +1,44 @@
+/* Standard-Stile für Desktop */
+body {
+  background-color: #888;
+}
+
+#tit-main {
+  padding-left: 700px;
+}
+
+img {
+  width: 60%;
+  height: 60%;
+  padding-left: 300px;
+  padding-top: 100px;
+}
+
+#div-Home {
+  padding-left: 850px;
+  padding-top: 20px;
+  border: 2px solid black;
+
+  color: white;
+}
+
+#div-Home a:hover {
+  color: white;
+  font-size: 2cm;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #333;
+  padding: 15px;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 1.2em;
+}
+a:hover {
+    color: rgb(129, 197, 128);
+    text-decoration-line: underline;
+  }

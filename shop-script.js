@@ -1,0 +1,1 @@
+console.log("Javascript wurde erfolgreich geladen!");
